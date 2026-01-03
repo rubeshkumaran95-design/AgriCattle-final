@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AgriCattle",
+  "description": "A comprehensive marketplace and management ecosystem for cattle, poultry, and agricultural farmers featuring AI-driven yield calculation and shed management.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
